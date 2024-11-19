@@ -4,6 +4,7 @@ class A {
 
 	void meth() {
 		System.out.println("meth");
+		System.out.println("meth2");
 	}
 }
 
