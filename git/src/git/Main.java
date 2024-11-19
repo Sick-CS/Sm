@@ -8,6 +8,14 @@ class A {
 	}
 }
 
+class B extends A {
+	@Override
+	void meth() {
+		// TODO Auto-generated method stub
+		super.meth();
+	}
+}
+
 public class Main {
 	public static void main(String[] args) {
 		A a = new A();
